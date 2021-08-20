@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <Target Name="Copy" AfterTargets="Build">
+    <ItemGroup>
+      <OldFiles Include="C:\Program Files\Firebird\Firebird_4_0\plugins\FbNetExternalEngine\MyFooAssembly.*" />
+      <OldFiles Include="$(SolutionDir)\Firebird-4.0.0.2496-1-x64\plugins\FbNetExternalEngine\MyFooAssembly.*" SkipUnchangedFiles="true" />
+      <DataFiles Include="$(OutDir)\**\*.*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(DataFiles)" DestinationFolder="$(SolutionDir)\Firebird-4.0.0.2496-1-x64\plugins\FbNetExternalEngine\%(RecursiveDir)" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(DataFiles)" DestinationFolder="C:\Program Files\Firebird\Firebird_4_0\plugins\FbNetExternalEngine\%(RecursiveDir)" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

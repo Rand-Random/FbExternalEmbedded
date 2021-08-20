@@ -1,0 +1,16 @@
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.exe
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.deps.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.runtimeconfig.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.runtimeconfig.dev.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FbExternalEmbedded.pdb
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\netcoreapp3.1\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.csproj.AssemblyReference.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.AssemblyInfoInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.AssemblyInfo.cs
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.csproj.CoreCompileInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.csproj.CopyComplete
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.pdb
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\netcoreapp3.1\FbExternalEmbedded.genruntimeconfig.cache

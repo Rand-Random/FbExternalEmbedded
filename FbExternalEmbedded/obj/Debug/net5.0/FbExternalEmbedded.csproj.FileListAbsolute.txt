@@ -1,0 +1,17 @@
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.exe
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.deps.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.runtimeconfig.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.runtimeconfig.dev.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\ref\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FbExternalEmbedded.pdb
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.AssemblyInfoInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.AssemblyInfo.cs
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.csproj.CoreCompileInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\ref\FbExternalEmbedded.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.pdb
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.genruntimeconfig.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\bin\Debug\net5.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\FbExternalEmbedded\obj\Debug\net5.0\FbExternalEmbedded.csproj.CopyComplete

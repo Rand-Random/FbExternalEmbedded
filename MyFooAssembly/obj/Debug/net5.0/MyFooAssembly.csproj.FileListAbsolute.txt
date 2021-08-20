@@ -1,0 +1,11 @@
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\bin\Debug\net5.0\MyFooAssembly.deps.json
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\bin\Debug\net5.0\MyFooAssembly.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\bin\Debug\net5.0\ref\MyFooAssembly.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\bin\Debug\net5.0\MyFooAssembly.pdb
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.AssemblyInfoInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.AssemblyInfo.cs
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.csproj.CoreCompileInputs.cache
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\ref\MyFooAssembly.dll
+C:\Users\rfa\source\repos\FbExternalEmbedded\MyFooAssembly\obj\Debug\net5.0\MyFooAssembly.pdb

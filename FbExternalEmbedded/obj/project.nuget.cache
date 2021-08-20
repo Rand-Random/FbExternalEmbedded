@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K16JQEiZvSHkgvcpAVBY+WvwTFUB1QkX1LtKyEBSDl0SDKYZX3aQvjSOYTjn6thAJvjw521ULADc6qCFuRUPNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rfa\\source\\repos\\FbExternalEmbedded\\FbExternalEmbedded\\FbExternalEmbedded.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rfa\\.nuget\\packages\\firebirdsql.data.firebirdclient\\8.5.1.1\\firebirdsql.data.firebirdclient.8.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
