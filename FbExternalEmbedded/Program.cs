@@ -8,6 +8,14 @@ namespace FbExternalEmbedded
     {
         static void Main(string[] args)
         {
+            // Demo the generated classes first
+            Console.WriteLine("=== Demonstrating 150 Generated Classes ===");
+            GeneratedClassesDemo.RunDemo();
+            Console.WriteLine("\n" + new string('=', 50) + "\n");
+
+            // Original Firebird functionality
+            Console.WriteLine("=== Original Firebird Functionality ===");
+            
             var dbPath = Path.GetFullPath("MyFooDatabase.fdb");
 
             //go up to solution dir
