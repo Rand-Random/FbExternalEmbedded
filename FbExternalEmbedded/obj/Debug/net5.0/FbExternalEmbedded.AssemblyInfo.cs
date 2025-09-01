@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FbExternalEmbedded")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d04af976050a47b02d0b9bb8951c2cb5b2ef59b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d783b0ccc882df61259a7630b7f204c91a67aad")]
 [assembly: System.Reflection.AssemblyProductAttribute("FbExternalEmbedded")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FbExternalEmbedded")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
