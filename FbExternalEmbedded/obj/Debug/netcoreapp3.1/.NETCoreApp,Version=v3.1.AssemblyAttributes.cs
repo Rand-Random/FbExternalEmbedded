@@ -2,3 +2,4 @@
 using System;
 using System.Reflection;
 [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v3.1", FrameworkDisplayName = "")]
+// Individual commit for .NETCoreApp,Version=v3.1.AssemblyAttributes.cs (#4)

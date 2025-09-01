@@ -2,3 +2,4 @@
 using System;
 using System.Reflection;
 [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETStandard,Version=v2.1", FrameworkDisplayName = "")]
+// Individual commit for MyFooAssembly .NETStandard v2.1 AssemblyAttributes.cs (#13)
